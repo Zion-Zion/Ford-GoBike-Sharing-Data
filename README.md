@@ -1,10 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Exploring Ford GoBike System Data
+## by Zion Oluwasegun
 
 
 ## Dataset
 
-This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. It contains 16 columns and 183412 rows which became 25 columns and 174952 rows after cleaning and feature engineering. This projects explores the periods and how often the bike rides/trips are made in the area.
+This [data set](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv) includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. It contains 16 columns and 183412 rows which became 25 columns and 174952 rows after cleaning and feature engineering. This projects explores the periods and how often the bike rides/trips are made in the area.
 
 ## Summary of Findings
 Users cut across age groups from 18 even up to 80 with majority aged 20-40. Also, most Users are male, and most are also Subscribers.
